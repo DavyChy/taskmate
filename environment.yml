@@ -1,0 +1,9 @@
+name: django
+channels:
+  - conda-forge
+dependencies:
+  - django
+  - crispy-bootstrap5
+  - psycopg
+  - django-environ
+prefix: /Users/davychy/miniforge3/envs/django
