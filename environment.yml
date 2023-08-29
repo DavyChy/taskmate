@@ -6,4 +6,5 @@ dependencies:
   - crispy-bootstrap5
   - psycopg
   - django-environ
+  - gunicorn
 prefix: /Users/davychy/miniforge3/envs/django
